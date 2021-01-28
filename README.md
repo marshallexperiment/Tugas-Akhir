@@ -8,6 +8,6 @@ Kata kunci: Fotogrammetri, Sistem Informasi Geografis, Politeknik Negeri Batam, 
 # Data Foto Udara
 https://1drv.ms/u/s!AkWNqbenEZr8jgqQV99CqM75diTL?e=zSdakS 
 # Data hasil
-https://dubox.com/s/1lcI_EuRtJKCJGHZ08Qb79g password:5ngc
+https://dubox.com/s/1lcI_EuRtJKCJGHZ08Qb79g password:5ngc (ukuran file: 2.2 gb)
 # Credit
 https://github.com/marshallexperiment/WebODM
