@@ -11,8 +11,8 @@ Keywords: Photogrammetry, Geographic Information System, State Polytechnic of Ba
 
 
 # Data Foto Udara
-https://1drv.ms/u/s!AkWNqbenEZr8jgqQV99CqM75diTL?e=zSdakS 
+https://dubox.com/s/1WvLn8aXGXgv8AS9dI8GWQg password:mkad (ukuran file: 2.17gb)
 # Data hasil
-https://dubox.com/s/1lcI_EuRtJKCJGHZ08Qb79g password:5ngc (ukuran file: 2.2 gb)
+https://dubox.com/s/17M1dwp5hopG-J0r8BO_NCg password:reda  (ukuran file: 1.2gb)
 # Credit
 https://github.com/OpenDroneMap/WebODM
