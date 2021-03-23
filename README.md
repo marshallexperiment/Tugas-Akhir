@@ -5,7 +5,7 @@ Politeknik Negeri Batam banyak mengerjakan proyek bangunan baru tetapi akses unt
 
 Kata kunci: Fotogrammetri, Sistem Informasi Geografis, Politeknik Negeri Batam, WebODM
 
-_State Polytechnic of Batam currently is working on few new building projects but access to visualization is still very minimal due to the lack of aerial photogrammetry data and the last update was in 2017. Aerial photography itself is part of photogrammetry and the software that is usually used is very expensive. Photogrammetry itself is a technology commonly used in remote sensing surveys as well as secondary data in a Geographical Information System project. The motivation for researchers to conduct research because from the WebODM photogrammetry technology, researchers can visualize the image of the  polytechnic itself with the help of free open source software.
+State Polytechnic of Batam currently is working on few new building projects but access to visualization is still very minimal due to the lack of aerial photogrammetry data and the last update was in 2017. Aerial photography itself is part of photogrammetry and the software that is usually used is very expensive. Photogrammetry itself is a technology commonly used in remote sensing surveys as well as secondary data in a Geographical Information System project. The motivation for researchers to conduct research because from the WebODM photogrammetry technology, researchers can visualize the image of the  polytechnic itself with the help of free open source software.
 
 Keywords: Photogrammetry, Geographic Information System, State Polytechnic of Batam, WebODM_
 
