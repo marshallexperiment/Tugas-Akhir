@@ -11,9 +11,11 @@ WebODM is an open-source software that was launched in 2016, researchers want to
 
 Keywords: WebODM, Geometry Accuracy Test, LOD level 2
 
-# Data Foto Udara/Dataset of photogrammetry result
-https://dubox.com/s/1WvLn8aXGXgv8AS9dI8GWQg password:mkad (ukuran file: 2.17gb)
+# Data Foto Udara/Dataset of photogrammetry 
+Link:https://terabox.com/s/1cwHFVYG2iLLC0UlPY7QtLA  Password:7x1c
 # Data hasil/result
-https://dubox.com/s/17M1dwp5hopG-J0r8BO_NCg password:reda  (ukuran file: 1.2gb)
+Link:https://terabox.com/s/1AhYUrS2hbtw0FkDKy4XgNg  Password:4dct
+#Data pendukung lainnya
+Link:https://terabox.com/s/16O6FM9jIvUe5AfzLEVUTYQ  Password:fq4s
 # Credit
 https://github.com/OpenDroneMap/WebODM
