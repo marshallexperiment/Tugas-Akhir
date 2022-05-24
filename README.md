@@ -20,4 +20,4 @@ Link:https://terabox.com/s/16O6FM9jIvUe5AfzLEVUTYQ  Password:fq4s
 # Credit
 https://github.com/OpenDroneMap/WebODM
 # Big Special Thanks!!
-```Allah swt ```
+Allah SWT, Orang tua, Dosen pembimbing dan teman teman serta internet khususnya komputer ROG ku
